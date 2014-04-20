@@ -10,7 +10,6 @@
 
 * add asset
 
-<code>
-$css = array('base.css', 'style.css');
+<pre><code>$css = array('base.css', 'style.css');
 assetlibpro_add_css($css);
-</code>
+</code></pre>
