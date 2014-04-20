@@ -1,6 +1,8 @@
 # CodeIgniter asset library
 
 * fork http://code.google.com/p/assetlib-pro/
+* change css minify library: https://github.com/tubalmartin/YUI-CSS-compressor-PHP-port
+* use js minify library: https://github.com/rgrove/jsmin-php
 
 ## Usage
 
